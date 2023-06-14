@@ -1,0 +1,20 @@
+/* .banner-content {
+  width: 100%;
+  max-width: 655px;
+  height: 266px;
+}
+.chair-img {
+  width: 100%;
+  max-width: 594px;
+  height: 355px;
+} */
+
+.banner-container {
+  background-image: url("../../../assets/images/bg.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.background-img {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
